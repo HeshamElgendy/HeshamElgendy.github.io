@@ -1,0 +1,86 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Resume</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Hesham Elgendy</h1>
+      <h2>Presales System Engineer</h2>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h2>About Me</h2>
+        <p>A brief summary about yourself</p>
+        <img src="profile-picture.jpg" alt="Profile Picture">
+      </section>
+      <section id="experience">
+        <h2>Experience</h2>
+        <h3>Job Title - Company Name</h3>
+        <p>Job description and responsibilities</p>
+        <h3>Job Title - Company Name</h3>
+        <p>Job description and responsibilities</p>
+      </section>
+      <section id="education">
+        <h2>Education</h2>
+        <h3>Degree - Institution Name</h3>
+        <p>Description of degree and any notable achievements</p>
+        <h3>Degree - Institution Name</h3>
+        <p>Description of degree and any notable achievements</p>
+      </section>
+      <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>Skill 1</li>
+          <li>Skill 2</li>
+          <li>Skill 3</li>
+        </ul>
+      </section>
+      <section id="contact">
+        <h2>Contact</h2>
+        <ul>
+          <li>Email: email@example.com</li>
+          <li>Phone: 555-555-5555</li>
+          <li>LinkedIn: linkedin.com/in/example</li>
+        </ul>
+      </section>
+    </main>
+	<main>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <section id="about">
+          <h2>About</h2>
+          <p>A brief summary about yourself</p>
+        </section>
+      </div>
+      <div class="col-md-6">
+        <section id="experience">
+          <h2>Experience</h2>
+          <h3>Job Title - Company Name</h3>
+          <p>Job description and responsibilities</p>
+          <h3>Job Title - Company Name</h3>
+          <p>Job description and responsibilities</p>
+        </section>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-
+  </body>
+</html>
